@@ -1,0 +1,129 @@
+{
+    "Header": {
+
+        "title": "Project Management Services",
+        "paragraph": "We provide construction & project management for Federal Goverment and commercial clients globally"
+
+    },
+    "About": {
+        "paragraph": "Omni Networks is dedicated to serving the United States in fields such as construction, infrastructure, professional services and information technology solutions. Omni Networks was established as a Small Business, classified as such by the Small Business Administration - SBA. Today, Omni Networks is a leader in general defense contracting.",
+        "Why": [
+            "Innovation",
+            "Integrity",
+            "Loyalty",
+            "Collaboration",
+            "Ownership"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-comments-o",
+            "name": "FACILITIES MANAGEMENT",
+            "text": "We provide facility operations and base operations variety of professional services to federal government and commercial clients."
+        },
+        {
+            "icon": "fa fa-group",
+            "name": "LOGISTICS",
+            "text": "We offer complete logistics management as well as strategic logistical support to clients throughout the world."
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "FUEL MANAGEMENT",
+            "text": "We provide complete procurement, logistics and advisory services for fuel depots in the United States and around the world. "
+        },
+        {
+            "icon": "fa fa-language",
+            "name": "EFFICIENT",
+            "text": "We focuses client resources on providing operationally efficient services. Efficiency is doing only the right things."
+        },
+        {
+            "icon": "fa fa-plane",
+            "name": "EFFECTIVE",
+            "text": "We have been the leader in doing things right through innovative business modeling, reporting and asset maximization."
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "REMARKABLE",
+            "text": "We sends our operations managers to be trained in remarkable client service at AAA Five Star Resorts."
+        }
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "400 Jay St, Brooklyn NY 11201",
+        "phone": "+1 347-682-6277",
+        "email": "info@omniconsulting.biz",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-group",
+            "title": "Project Management",
+            "text": "We provide project management and program management services across federal government facilities."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Facility Management",
+            "text": "Omni Networks facility maintenance and management solutions offers clients the opportunity to select one, several, or all of our maintenance service packages."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Consulting",
+            "text": "We provide a variety of facility, real estate, energy, fuel, facility, security and logistical consulting solutions"
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Cyber Security & Software Development",
+            "text": "We specialize in cutting-edge cyber and information technology solutions for federal agencies and commercial organizations."
+        }
+    ]
+}
